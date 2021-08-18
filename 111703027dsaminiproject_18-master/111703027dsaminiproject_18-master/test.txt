@@ -1,0 +1,26 @@
+./project b alpha.txt
+./project d alpha.txt
+./project i alpha.txt
+./project n alpha.txt
+./project r alpha.txt
+./project u alpha.txt
+./project b alphanum.txt
+./project i alphanum.txt
+./project n alphanum.txt
+./project u alphanum.txt
+./project r alphanum.txt
+./project b blanks.txt
+./project u blanks.txt
+./project i blanks.txt
+./project n blanks.txt
+./project r blanks.txt
+./project k records.csv 1
+./project k records.csv 4
+./project m alphab.txt alphanumi.txt numbersn.txt
+./project r numbers.txt
+./project i numbers.txt
+./project n numbers.txt
+./project r numbers.txt
+./project d numbers.txt
+./project b numbers.txt
+./project u numbers.txt

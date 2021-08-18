@@ -1,0 +1,10 @@
+URLs used :-    https://www.geeksforgeeks.org/quick-sort/
+		https://shapeshed.com/unix-sort/
+		https://www.programiz.com/c-programming/examples/remove-characters-string
+		https://www.geeksforgeeks.org/remove-spaces-from-a-given-string/
+		https://www.daniweb.com/programming/software-development/threads/357500/					   			remove-duplicates-from-a-text-file-using-vectors-in-c
+		https://www.gnu.org/software/gawk/manual/html_node/Field-Separators.html
+SENIOR STUDENT MENTOR :- Jugal Rawlani, TY Computer, COEP
+REFERENCE MATERIAL BOOKS :- KnR
+Description of help :-
+		I implemented quicksort by refering the psuedocode for quicksort of integer array on geeksforgeeks.org website page on url mentioned above and read the quicksort code and its explanation in KnR book pg 108, 109 and 110. Jugal explained me the outline of the implementation of the project. It included process of splitting the file, individually sorting each file and finally merging all sorted files. He also explained me the algorithm of merge external sort which i have implemnted in mergesortttwofiles and mergetwosortedfiles functions in my code. He made all the test files coding in python. All the comparator functions for various sorting modes have been coded by refering urls mentioned above and working out code on seperate programs.
